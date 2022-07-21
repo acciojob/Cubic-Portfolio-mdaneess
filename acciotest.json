@@ -1,0 +1,4 @@
+{
+    "testRepo": "cubic-portfolio-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
